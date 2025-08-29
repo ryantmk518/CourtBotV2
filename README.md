@@ -19,9 +19,6 @@ Tampermonkey is a browser extension that lets you run user scripts.
 - [Install for Chrome/Edge/Brave](https://www.tampermonkey.net/?ext=dhdg&browser=chrome)  
 - [Install for Firefox](https://www.tampermonkey.net/?ext=dhdg&browser=firefox)  
 
-Example:  
-![Tampermonkey Extension](https://i.imgur.com/kf9rY9Y.png)
-
 ---
 
 ### 2. Copy the Script Code
@@ -30,17 +27,11 @@ Go to the script file on GitHub:
 
 Click **Raw** and copy all the code.
 
-Example:  
-![Copy Script Code](https://i.imgur.com/oUMfTFt.png)
-
 ---
 
 ### 3. Create a New Script in Tampermonkey
 1. Click the Tampermonkey extension icon in your browser.  
 2. Select **Create a new script**.  
-
-Example:  
-![Create New Script](https://i.imgur.com/SVrGJxu.png)
 
 ---
 
@@ -49,17 +40,11 @@ Example:
 - Paste in the copied script.  
 - Click **File → Save** or press **Ctrl+S / Cmd+S**.  
 
-Example:  
-![Paste and Save](https://i.imgur.com/IpUb1wT.png)
-
 ---
 
 ### 5. Install reCAPTCHA Auto-Clicker
 Install this additional user script to automatically click “I’m not a robot”:  
 ➡️ [reCAPTCHA Autoclick (Greasyfork)](https://greasyfork.org/en/scripts/461650-recaptcha-autoclick)
-
-Example:  
-![reCAPTCHA Autoclick](https://i.imgur.com/2Dzp4nv.png)
 
 ---
 
@@ -72,4 +57,3 @@ Once installed:
 
 ## Notes
 - Make sure both scripts are **enabled** in Tampermonkey.  
-- If something isn’t working, check the **Tampermonkey dashboard** for error logs.  
