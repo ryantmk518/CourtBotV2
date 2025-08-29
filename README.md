@@ -1,6 +1,6 @@
 # CourtBotV2 Setup Guide
 
-GPT5 IS THE GOAT.
+## GPT5 IS THE GOAT.
 
 This guide will help you set up the **CourtBotV2 Tampermonkey script** along with an auto-clicker for reCAPTCHA.  
 By the end, you’ll have everything running inside your browser with minimal effort.
@@ -23,7 +23,7 @@ Tampermonkey is a browser extension that lets you run user scripts.
 
 ### 2. Copy the Script Code
 Go to the script file on GitHub:  
-➡️ [CourtBotV2 Script](https://github.com/ryantmk518/CourtBotV2/blob/main/Don't%20Worry%20About%20It%20-)-1.0.user.js)
+➡️ [CourtBotV2 Script](https://github.com/ryantmk518/CourtBotV2/blob/main/Bot.js)
 
 Click **Raw** and copy all the code.
 
