@@ -56,4 +56,7 @@ Once installed:
 ---
 
 ## Notes
-- Make sure both scripts are **enabled** in Tampermonkey.  
+- Make sure both scripts are **enabled** in Tampermonkey.
+
+# Usage
+Go to UIUC court booking page and sign in. Once you get to the page everything will happen automatically. Be sure to select your court.
