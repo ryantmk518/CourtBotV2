@@ -9,8 +9,9 @@ By the end, you’ll have everything running inside your browser with minimal ef
 
 ## Prerequisites
 Before you begin, make sure you’re using a Chromium-based browser (e.g., Chrome, Edge, Brave) or Firefox.
-
 If you are on Chrome, turn on developer settings for extensions. It should be located on the top right of the extensions screen. Also, click on manage extension for Tampermonkey and click allow user scripts.
+
+
 ---
 
 ## Installation Steps
